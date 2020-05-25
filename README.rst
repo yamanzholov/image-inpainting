@@ -7,3 +7,4 @@ To run the project first create virtual environment and install dependencies by 
 Each directory contains config file with necessary configurations to replicate the results.
 To train the network run train.py script in needed directory.
 Inference.py makes predictions on test set.
+Full report is also available in the repository.
